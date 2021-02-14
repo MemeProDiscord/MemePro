@@ -16,6 +16,7 @@ We have a object that is imported in that maps the predefined commands to their 
 We use the [Imgflip API](https://imgflip.com/api) to request the captioned image, which we then display.
 
 ## Possible TODOs
+- Code and documentation/website cleanup.
 - Add support for more than two captions.
 - Add support to disable predefined commands.
 - Add support to have users login on behalf of the user?/channel?/server? in case imgflip rate limiting becomes an issue.
